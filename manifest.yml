@@ -1,0 +1,5 @@
+manifest_version: 1
+name: AnnoyLMDBSearcher
+description: a compound Searcher Executor made up of AnnoySearcher for performing similarity search on the embeddings, and of LMDBStorage for retrieving the metadata of the Documents.
+url: https://github.com/Ahmad-Nouh/AnnoyLMDBSearcher
+keywords: ['database', 'compound', 'indexer', 'annoy', 'FileSearcher']

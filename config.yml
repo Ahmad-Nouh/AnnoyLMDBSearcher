@@ -1,0 +1,4 @@
+jtype: AnnoyLMDBSearcher
+metas:
+  py_modules:
+    - executor.py
