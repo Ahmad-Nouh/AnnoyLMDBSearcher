@@ -2,3 +2,5 @@ annoy==1.17.0
 lmdb==1.2.1
 git+https://github.com/jina-ai/executors
 git+https://github.com/jina-ai/jina-commons
+numpy~=1.21.3
+jina==2.1.5
